@@ -1,0 +1,22 @@
+{
+  "name": "algolia-nuxt-routes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.8.6",
+    "core-js": "^3.9.1",
+    "instantsearch.css": "^7.4.5",
+    "nuxt": "^2.15.3",
+    "vue-instantsearch": "^3.6.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.3",
+    "@nuxt/typescript-build": "^2.1.0"
+  }
+}
