@@ -1,5 +1,7 @@
 # algolia-nuxt-routes
 
+https://www.algolia.com/doc/guides/building-search-ui/going-further/routing-urls/vue/#combining-with-nuxtjs
+
 ## Build Setup
 
 ```bash
